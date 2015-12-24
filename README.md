@@ -1,18 +1,5 @@
 ### Introduction
 
-I will add this line to see how git works
-
-Now I will mofify the readme and cachematrix but will push only read.me
-
-Cachematrix was changed to print6 and will be upload separately from read.me
-
-On the previous commit I did change the two files and use git add --all>git commit>git push
-
-Now I will try git add README.md >git commit>git push
-
-and repeat it for the CacheMatrix
-
-
 This second programming assignment will require you to write an R
 function that is able to cache potentially time-consuming computations.
 For example, taking the mean of a numeric vector is typically a fast
